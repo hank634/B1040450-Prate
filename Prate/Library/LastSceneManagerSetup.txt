@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MeshSmith/Fantasy1/Lady Pirate/Demo/Demo.unity
+  isLoaded: 1
+  isActive: 1

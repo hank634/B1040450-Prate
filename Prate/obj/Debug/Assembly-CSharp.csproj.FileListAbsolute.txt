@@ -165,3 +165,6 @@ C:\Users\User\Documents\Prate\obj\Debug\Assembly-CSharp.csprojAssemblyReference.
 C:\Users\User\Documents\Prate\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\User\Documents\Prate\obj\Debug\Assembly-CSharp.dll
 C:\Users\User\Documents\Prate\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\GitHub\B1040450-Prate\Prate\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\B1040450-Prate\Prate\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\B1040450-Prate\Prate\obj\Debug\Assembly-CSharp.dll
